@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\bin\Debug\net8.0-windows\Numero Par o Impar.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\bin\Debug\net8.0-windows\Numero Par o Impar.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\bin\Debug\net8.0-windows\Numero Par o Impar.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\bin\Debug\net8.0-windows\Numero Par o Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\bin\Debug\net8.0-windows\Numero Par o Impar.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero_Par_o_Impar.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\refint\Numero Par o Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\Numero Par o Impar.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 6\Numero Par o Impar\Numero Par o Impar\obj\Debug\net8.0-windows\ref\Numero Par o Impar.dll
