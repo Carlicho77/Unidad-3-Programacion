@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\bin\Debug\net8.0-windows\Multiplicador.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\bin\Debug\net8.0-windows\Multiplicador.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\bin\Debug\net8.0-windows\Multiplicador.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\bin\Debug\net8.0-windows\Multiplicador.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\bin\Debug\net8.0-windows\Multiplicador.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.Properties.Resources.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\refint\Multiplicador.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\Multiplicador.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practicas For While Do\Practica 2\Multiplicador\Multiplicador\obj\Debug\net8.0-windows\ref\Multiplicador.dll
