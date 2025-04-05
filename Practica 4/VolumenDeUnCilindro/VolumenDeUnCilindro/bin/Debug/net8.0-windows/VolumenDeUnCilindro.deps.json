@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VolumenDeUnCilindro/1.0.0": {
+        "runtime": {
+          "VolumenDeUnCilindro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VolumenDeUnCilindro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

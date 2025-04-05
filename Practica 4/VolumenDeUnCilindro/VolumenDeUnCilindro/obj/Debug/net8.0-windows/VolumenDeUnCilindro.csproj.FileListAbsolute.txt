@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\bin\Debug\net8.0-windows\VolumenDeUnCilindro.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\bin\Debug\net8.0-windows\VolumenDeUnCilindro.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\bin\Debug\net8.0-windows\VolumenDeUnCilindro.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\bin\Debug\net8.0-windows\VolumenDeUnCilindro.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\bin\Debug\net8.0-windows\VolumenDeUnCilindro.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.Properties.Resources.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\refint\VolumenDeUnCilindro.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\VolumenDeUnCilindro.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 4\VolumenDeUnCilindro\VolumenDeUnCilindro\obj\Debug\net8.0-windows\ref\VolumenDeUnCilindro.dll

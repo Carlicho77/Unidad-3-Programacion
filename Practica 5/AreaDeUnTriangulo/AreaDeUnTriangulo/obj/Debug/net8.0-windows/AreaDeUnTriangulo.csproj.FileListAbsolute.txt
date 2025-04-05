@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.Properties.Resources.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\bin\Debug\net8.0-windows\AreaDeUnTriangulo.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\bin\Debug\net8.0-windows\AreaDeUnTriangulo.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\bin\Debug\net8.0-windows\AreaDeUnTriangulo.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\bin\Debug\net8.0-windows\AreaDeUnTriangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\bin\Debug\net8.0-windows\AreaDeUnTriangulo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\refint\AreaDeUnTriangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\AreaDeUnTriangulo.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 5\AreaDeUnTriangulo\AreaDeUnTriangulo\obj\Debug\net8.0-windows\ref\AreaDeUnTriangulo.dll
