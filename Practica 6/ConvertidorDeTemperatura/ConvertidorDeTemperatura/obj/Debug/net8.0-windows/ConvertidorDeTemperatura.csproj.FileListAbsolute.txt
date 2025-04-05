@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\bin\Debug\net8.0-windows\ConvertidorDeTemperatura.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\bin\Debug\net8.0-windows\ConvertidorDeTemperatura.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\bin\Debug\net8.0-windows\ConvertidorDeTemperatura.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\bin\Debug\net8.0-windows\ConvertidorDeTemperatura.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\bin\Debug\net8.0-windows\ConvertidorDeTemperatura.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\refint\ConvertidorDeTemperatura.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ConvertidorDeTemperatura.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 6\ConvertidorDeTemperatura\ConvertidorDeTemperatura\obj\Debug\net8.0-windows\ref\ConvertidorDeTemperatura.dll
