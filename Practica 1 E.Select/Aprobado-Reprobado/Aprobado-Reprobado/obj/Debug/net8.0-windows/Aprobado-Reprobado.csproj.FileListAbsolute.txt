@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\bin\Debug\net8.0-windows\Aprobado-Reprobado.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\bin\Debug\net8.0-windows\Aprobado-Reprobado.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\bin\Debug\net8.0-windows\Aprobado-Reprobado.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\bin\Debug\net8.0-windows\Aprobado-Reprobado.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\bin\Debug\net8.0-windows\Aprobado-Reprobado.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado_Reprobado.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\refint\Aprobado-Reprobado.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\Aprobado-Reprobado.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 1\Aprobado-Reprobado\Aprobado-Reprobado\obj\Debug\net8.0-windows\ref\Aprobado-Reprobado.dll

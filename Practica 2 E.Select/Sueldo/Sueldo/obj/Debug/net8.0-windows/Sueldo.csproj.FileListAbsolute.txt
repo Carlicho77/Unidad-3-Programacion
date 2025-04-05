@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\bin\Debug\net8.0-windows\Sueldo.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\bin\Debug\net8.0-windows\Sueldo.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\bin\Debug\net8.0-windows\Sueldo.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\bin\Debug\net8.0-windows\Sueldo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\bin\Debug\net8.0-windows\Sueldo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\refint\Sueldo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\Sueldo.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 2\Sueldo\Sueldo\obj\Debug\net8.0-windows\ref\Sueldo.dll
