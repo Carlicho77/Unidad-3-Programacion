@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\bin\Debug\net8.0-windows\Tipo De Triangulo.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\bin\Debug\net8.0-windows\Tipo De Triangulo.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\bin\Debug\net8.0-windows\Tipo De Triangulo.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\bin\Debug\net8.0-windows\Tipo De Triangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\bin\Debug\net8.0-windows\Tipo De Triangulo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo_De_Triangulo.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo_De_Triangulo.Properties.Resources.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\refint\Tipo De Triangulo.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\Tipo De Triangulo.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 7\Tipo De Triangulo\Tipo De Triangulo\obj\Debug\net8.0-windows\ref\Tipo De Triangulo.dll

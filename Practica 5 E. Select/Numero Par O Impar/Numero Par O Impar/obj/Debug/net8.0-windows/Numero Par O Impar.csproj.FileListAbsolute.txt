@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\bin\Debug\net8.0-windows\Numero Par O Impar.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\bin\Debug\net8.0-windows\Numero Par O Impar.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\bin\Debug\net8.0-windows\Numero Par O Impar.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\bin\Debug\net8.0-windows\Numero Par O Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\bin\Debug\net8.0-windows\Numero Par O Impar.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero_Par_O_Impar.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\refint\Numero Par O Impar.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\Numero Par O Impar.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Estructuras Selectivas\Practica 5\Numero Par O Impar\Numero Par O Impar\obj\Debug\net8.0-windows\ref\Numero Par O Impar.dll

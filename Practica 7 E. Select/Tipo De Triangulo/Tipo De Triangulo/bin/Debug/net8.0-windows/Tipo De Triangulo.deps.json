@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tipo De Triangulo/1.0.0": {
+        "runtime": {
+          "Tipo De Triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tipo De Triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
