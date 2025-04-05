@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\bin\Debug\net8.0-windows\Ecuacion.exe
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\bin\Debug\net8.0-windows\Ecuacion.deps.json
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\bin\Debug\net8.0-windows\Ecuacion.runtimeconfig.json
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\bin\Debug\net8.0-windows\Ecuacion.dll
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\bin\Debug\net8.0-windows\Ecuacion.pdb
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.Form1.resources
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.dll
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\refint\Ecuacion.dll
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.pdb
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\Ecuacion.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Practica 11\Ecuacion\Ecuacion\obj\Debug\net8.0-windows\ref\Ecuacion.dll
