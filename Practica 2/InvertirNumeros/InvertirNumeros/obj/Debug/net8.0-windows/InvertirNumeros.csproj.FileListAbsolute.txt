@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\bin\Debug\net8.0-windows\InvertirNumeros.exe
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\bin\Debug\net8.0-windows\InvertirNumeros.deps.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\bin\Debug\net8.0-windows\InvertirNumeros.runtimeconfig.json
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\bin\Debug\net8.0-windows\InvertirNumeros.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\bin\Debug\net8.0-windows\InvertirNumeros.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.Form1.resources
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\refint\InvertirNumeros.dll
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.pdb
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\InvertirNumeros.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ing Mec carlos\Programacion Basica\Practicas Visual\Practica 2\InvertirNumeros\InvertirNumeros\obj\Debug\net8.0-windows\ref\InvertirNumeros.dll
